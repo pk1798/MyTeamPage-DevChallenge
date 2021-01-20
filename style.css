@@ -100,7 +100,7 @@ figcaption{
 
 /* Media queries */
 
-@media (max-width: 460px){
+@media (max-width: 650px){
     body {
         background-color: #f4f4f4;
         max-width: 100%;
