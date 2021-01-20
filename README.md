@@ -28,16 +28,14 @@
 ## Table of Contents
 
 - [Overview](#overview)
- - [Built With](#built-with)
+- [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
 
 <!-- OVERVIEW -->
 
 ## Overview
-
-![screenshot](https://github.com/pk1798/devChallenge-404-Not-Found/blob/main/Screenshot/PC.PNG)
-![screenshot](https://github.com/pk1798/devChallenge-404-Not-Found/blob/main/Screenshot/mobile.PNG)
+![screenshot](https://github.com/pk1798/MyTeamPage-DevChallenge/blob/main/images/MyTeamPage.jpg)
 
 
 - Where can I see your demo
